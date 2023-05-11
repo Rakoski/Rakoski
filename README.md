@@ -7,7 +7,6 @@
 ###
 
 <p align="left">🇧🇷 Brazilian Software developer<br><br>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
   
 ![Rakoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=radical)
