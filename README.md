@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&size_weight=0.5&count_weight=0.5)](https://github.com/Rakoski/github-readme-stats)
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/file:///home/msrakoski/Downloads/python.svg.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/file:///home/msrakoski/Downloads/python.svg.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/file:///home/msrakoski/Downloads/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/file:///home/msrakoski/Downloads/python.svg" />
           
           
           
