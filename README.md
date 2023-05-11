@@ -5,23 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&size_weight=0.5&count_weight=0.5)](https://github.com/Rakoski/github-readme-stats)
 
 
-
-            <i class="devicon-androidstudio-plain"></i>
-          
-
-            <i class="devicon-dart-plain"></i>
-          
-          
-            <i class="devicon-flutter-plain"></i>
-          
-          
-            <i class="devicon-linux-plain"></i>
-            
-            
-            <i class="devicon-mysql-plain"></i>
-            
-            
-            <i class="devicon-python-plain"></i>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/Python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/Python.svg" />
           
           
           
