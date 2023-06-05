@@ -8,9 +8,9 @@
 
 <p align="left">🇧🇷 Brazilian Software developer<br><br>
   
-[![Rakoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
+[![Rakoski's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api/top-langs/?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
 
 ###
 
