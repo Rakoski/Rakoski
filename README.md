@@ -8,10 +8,11 @@
 
 <p align="left">🇧🇷 Brazilian Software developer<br><br>
   
-[![Rakoski's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app/api?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
-
-[![Top Langs]((https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Rakoski)](https://github.com/Rakoski/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakoski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakoski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+  
 ###
 
 <h2 align="left">I code with</h2>
