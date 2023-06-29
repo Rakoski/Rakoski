@@ -8,10 +8,8 @@
 
 <p align="left">🇧🇷 Brazilian Software developer<br><br>
   
-<div align="center">
-(https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide_progress=true)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide_progress=true)
   
 ###
 
