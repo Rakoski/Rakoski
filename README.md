@@ -2,18 +2,18 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre eu!</h2>
 
 ###
 
-<p align="left">🇧🇷 Brazilian Software developer<br><br>
+<p align="left">Brazilian Backend Software developer 🇧🇷 <br><br>
   
 ![Rakoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark)
   
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Meus projetos são feitos com:</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2> Contact </h2>
+<h2> Contatos: </h2>
 <div style"display: inline_block">
     <a href="mailto:mastrakoski@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
