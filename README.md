@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre eu!</h2>
+<h2 align="left">About me</h2>
 
 ###
 
