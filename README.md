@@ -8,15 +8,9 @@
 
 <p align="left">Brazilian Backend Software developer 🇧🇷 <br><br>
   
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark" alt="Rakoski's GitHub stats">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark" alt="Top Langs">
-  </div>
-</div>
-  
+<img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark" alt="Rakoski's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark" alt="Top Langs">
+
 ###
 
 <h2 align="left">Meus projetos são feitos com:</h2>
