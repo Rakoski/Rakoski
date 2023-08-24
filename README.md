@@ -8,8 +8,14 @@
 
 <p align="left">Brazilian Backend Software developer 🇧🇷 <br><br>
   
-![Rakoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark)
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark" alt="Rakoski's GitHub stats">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark" alt="Top Langs">
+  </div>
+</div>
   
 ###
 
