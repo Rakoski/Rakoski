@@ -8,7 +8,7 @@
 
 <p align="left">Brazilian Backend Software developer 🇧🇷 <br><br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark" alt="Rakoski's GitHub stats" style="height: 250px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=dark" alt="Rakoski's GitHub stats" style="height: 290px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css&theme=dark" alt="Top Langs">
 
 ###
