@@ -48,7 +48,3 @@
 
 ###
 
-###
-
-<h2 align="left"> Meus projetos estão fixados abaixo! 🖥️</h2>
-
