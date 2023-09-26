@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Brazilian Backend Software developer 🇧🇷 <br><br>
+<p align="left"> 🇧🇷 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski" alt="Rakoski's GitHub stats" style="height: 225px;">
   
