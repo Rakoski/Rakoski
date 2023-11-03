@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img align="top" width="3%" height="50px" src="https://cdn.discordapp.com/attachments/921445393169006693/1082530151952302230/springboot-logo.png" alt="Springboot logo">
+  <img align="top" width="40px" height="40px" src="https://cdn.discordapp.com/attachments/921445393169006693/1082530151952302230/springboot-logo.png" alt="Springboot logo">
 </div>
 
 ###
