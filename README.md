@@ -9,7 +9,7 @@
 <p align="left"> 🇧🇷 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski" alt="Rakoski's GitHub stats" style="height: 225px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css,c%2B%2B,c#,cmake">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css,c%2B%2B, c%23,cmake">
   
 ###
 
