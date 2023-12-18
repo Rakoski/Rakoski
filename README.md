@@ -11,7 +11,7 @@
   
 ###
 
-<h2 align="left">Meus projetos são feitos com:</h2>
+<h2 align="left">My projects are made with:</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2> Contatos: </h2>
+<h2> Contact: </h2>
 <div style"display: inline_block">
     <a href="mailto:mastrakoski@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
