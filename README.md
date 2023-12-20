@@ -30,7 +30,7 @@
   <img align="top" width="40px" height="40px" src="https://cdn.discordapp.com/attachments/921445393169006693/1082530151952302230/springboot-logo.png" alt="Springboot logo">
 </div>
 
- <strong<h3>DevOps & Tools</h3></strong>
+ <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
  <img src="https://skillicons.dev/icons?i=git,idea,docker,linux,aws,mysql,vscode" />
