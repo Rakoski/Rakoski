@@ -15,7 +15,9 @@
 
 ###
 
-<div align="left">
+
+<div>
+  **Languages & Frameworks**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -26,8 +28,12 @@
   <img align="top" width="40px" height="40px" src="https://cdn.discordapp.com/attachments/921445393169006693/1082530151952302230/springboot-logo.png" alt="Springboot logo">
 </div>
 
-###
+<div>
+  **DevOps & Tools**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm logo"  />
 </div>
+
+###
 
 ###
 
