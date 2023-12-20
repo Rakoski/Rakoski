@@ -15,7 +15,7 @@
 
 ###
 
- <strong>Languages & Frameworks</strong>
+ <strong><h3>Languages & Frameworks</h3></strong>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -30,7 +30,7 @@
   <img align="top" width="40px" height="40px" src="https://cdn.discordapp.com/attachments/921445393169006693/1082530151952302230/springboot-logo.png" alt="Springboot logo">
 </div>
 
- <strong>DevOps & Tools</strong>
+ <strong<h3>DevOps & Tools</h3></strong>
 
 <div>
  <img src="https://skillicons.dev/icons?i=git,idea,docker,linux,aws,mysql,vscode" />
