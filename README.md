@@ -33,7 +33,7 @@
  <strong>DevOps & Tools</strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,idea,docker,linux,aws,mysql,webstorm,vscode" />
+ <img src="https://skillicons.dev/icons?i=git,idea,docker,linux,aws,mysql,vscode" />
 </div>
 
 ###
