@@ -18,6 +18,7 @@
  <strong><h3>Languages & Frameworks</h3></strong>
 
 <div>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,dart,react,flutter,nodejs,sequelize,spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
