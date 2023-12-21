@@ -18,7 +18,7 @@
  <strong><h3>Languages & Frameworks</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,dart,react,flutter,nodejs,sequelize,spring" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,dart,react,flutter,nodejs,sequelize,springboot" />
 </div>
 
  <strong><h3>DevOps & Tools</h3></strong>
