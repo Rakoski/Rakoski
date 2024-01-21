@@ -24,7 +24,7 @@
  <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,linux,aws,mysql" />
+ <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,linux,aws,mysql,graphql,mongodb" />
 </div>
 
 ###
