@@ -15,16 +15,22 @@
 
 ###
 
- <strong><h3>Languages & Frameworks</h3></strong>
+ <strong><h3>Languages</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,dart,react,flutter,nodejs,sequelize,spring" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart" />
+</div>
+
+ <strong><h3>Franeworks</h3></strong>
+
+ <div>
+  <img src="https://skillicons.dev/icons?i=jquery,graphql,react,flutter,nodejs,sequelize,spring" />
 </div>
 
  <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,linux,aws,mysql,graphql,mongodb" />
+ <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,linux,aws,mysql,mongodb" />
 </div>
 
 ###
