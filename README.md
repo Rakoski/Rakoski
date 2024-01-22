@@ -30,7 +30,7 @@
  <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,linux,aws,mysql,mongodb" />
+ <img src="https://skillicons.dev/icons?i=git,docker,mongodb,github,idea,vscode,linux,aws,mysql" />
 </div>
 
 ###
