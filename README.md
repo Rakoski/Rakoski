@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart" />
 </div>
 
- <strong><h3>Franeworks & Libraries</h3></strong>
+ <strong><h3>Frameworks & Libraries</h3></strong>
 
  <div>
   <img src="https://skillicons.dev/icons?i=jquery,graphql,react,flutter,nodejs,sequelize,spring" />
