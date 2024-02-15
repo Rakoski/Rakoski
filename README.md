@@ -32,11 +32,6 @@
 <div>
  <img src="https://skillicons.dev/icons?i=git,docker,mongodb,idea,vscode,linux,aws,mysql" />
 </div>
-
-###
-
-###
-
 <h2> Contact: </h2>
 <div style"display: inline_block">
     <a href="mailto:mastrakoski@gmail.com"><img
