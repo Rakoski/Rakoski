@@ -11,7 +11,7 @@
   
 ###
 
-<h2 align="left">My projects are made with:</h2>
+<h2 align="left">My projects are made with</h2>
 
 ###
 
