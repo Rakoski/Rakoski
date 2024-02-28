@@ -6,20 +6,33 @@
 
 ###
 
-<div style="margin-bottom: 100px;">
-  <h4>
+<h3>
   Desenvolvedor Full Stack, especializado em Node.js e React.js. 
   Trabalho profissionalmente com Javascript desde 2023, aprimorando e mantendo o desempenho e integrações de aplicações, 
   com experiência no desenvolvimento de sites administrativos usando Node com React, Javascript no Front-end, Back-end e Mobile e
   Java no Back-end e em aplicações mobile.
-</h4>
+</h3>
 
- <div style="width: 400px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="350" height="350">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="300" height="200" >
- </div>
+<div style="width: 500px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="450" height="550">
+  <p>‎ </p>
+  <p>‎ </p>
+  <div>‎ </div>
+  <div>‎ </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="400" height="290" >
 </div>
 
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
 <div>
   <h2>Meus projetos são feitos com</h2>
 </div>
