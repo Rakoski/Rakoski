@@ -14,10 +14,13 @@
 </h4>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="350" height="350">
 <p>‎ </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="350" height="350" >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="300" height="200" >
 
 ###
 
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
 <p>‎ </p>
 <p>‎ </p>
 <p>‎ </p>
