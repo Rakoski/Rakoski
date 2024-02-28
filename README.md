@@ -14,12 +14,12 @@
 </h3>
 
 <div style="width: 500px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="450" height="550">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="350" height="550">
   <p>‎ </p>
   <p>‎ </p>
   <div>‎ </div>
   <div>‎ </div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="400" height="290" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="300" height="290" >
 </div>
 
 <p>‎ </p>
