@@ -12,9 +12,9 @@
   com experiência no desenvolvimento de sites administrativos usando Node com React, Javascript no Front-end, Back-end e Mobile e
   Java no Back-end e em aplicações mobile.
 </h4>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="200" height="200">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="500" height="500">
 <p>‎ </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="200" height="200" >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="500" height="500" >
 
 ###
 
