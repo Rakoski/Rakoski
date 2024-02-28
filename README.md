@@ -15,9 +15,25 @@
 
 <div style="width: 600px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakoski&show_icons=true&theme=dark" alt="Rakoski's GitHub stats" width="350" height="550">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="300" height="290">
+  <p>‎ </p>
+  <p>‎ </p>
+  <div>‎ </div>
+  <div>‎ </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&layout=compact&hide=html,css,c%2B%2B,c%23,cmake&theme=dark" width="300" height="270" >
 </div>
 
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
+<p>‎ </p>
 <div>
   <h2>Meus projetos são feitos com</h2>
 </div>
