@@ -24,7 +24,7 @@
  <strong><h3>Linguagens</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart,c" />
 </div>
 
  <strong><h3>Frameworks & Bibliotecas</h3></strong>
