@@ -9,7 +9,7 @@
 <h3>
   Desenvolvedor Full Stack, especializado em Java e Javascript. 
   Trabalho profissionalmente com Javascript desde 2023, aprimorando e mantendo o desempenho e integrações de aplicações, 
-  com experiência em desenvolvimento usando Node.js com React.js e React Native, no Front-end, Back-end e Mobile e
+  com experiência em desenvolvimento pragmático usando Node.js com React.js e React Native, no Front-end, Back-end e Mobile e
   Java no Back-end e em aplicações mobile.
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski" alt="Rakoski's GitHub stats">
