@@ -24,13 +24,13 @@
  <strong><h3>Linguagens</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart,c" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
 </div>
 
  <strong><h3>Frameworks & Bibliotecas</h3></strong>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=jquery,graphql,react,flutter,nodejs,sequelize,spring" />
+  <img src="https://skillicons.dev/icons?i=jquery,graphql,react,nodejs,sequelize,spring" />
 </div>
 
  <strong><h3>DevOps & Ferramentas</h3></strong>
