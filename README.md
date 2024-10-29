@@ -13,7 +13,7 @@
   Java no Back-end e em aplicações mobile.
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski" alt="Rakoski's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css,c%2B%2B&">
   
 ###
 
