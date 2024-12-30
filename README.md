@@ -30,13 +30,13 @@
  <strong><h3>Frameworks & Bibliotecas</h3></strong>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=jquery,graphql,react,nodejs,sequelize,spring" />
+  <img src="https://skillicons.dev/icons?i=graphql,react,nodejs,spring,express" />
 </div>
 
  <strong><h3>DevOps & Ferramentas</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,docker,mongodb,idea,vscode,linux,aws,mysql" />
+ <img src="https://skillicons.dev/icons?i=git,docker,mongodb,linux,aws,mysql" />
 </div>
 <h2> Contato </h2>
 <div style"display: inline_block">
