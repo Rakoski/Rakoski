@@ -36,7 +36,7 @@
  <strong><h3>DevOps & Ferramentas</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,mysql,postgresql" />
+ <img src="https://skillicons.dev/icons?i=git,docker,mongodb,linux,aws,mysql,postgresql" />
 </div>
 <h2> Contato </h2>
 <div style"display: inline_block">
