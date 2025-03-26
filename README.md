@@ -14,6 +14,7 @@
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski" alt="Rakoski's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&hide=html,css,cmake,dart">
+![Rakoski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css)
   
 ###
 
