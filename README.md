@@ -13,7 +13,6 @@
   Java no Back-end e em aplicações mobile.
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=vue-dark" alt="Rakoski's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&theme=vue-dark&hide=html,css,cmake,dart">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css,cmake")
   
 ###
