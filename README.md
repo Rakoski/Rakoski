@@ -24,7 +24,7 @@
  <strong><h3>Linguagens</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp" />
 </div>
 
  <strong><h3>Frameworks & Bibliotecas</h3></strong>
@@ -36,7 +36,7 @@
  <strong><h3>DevOps & Ferramentas</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,docker,mongodb,linux,aws,mysql,postgresql" />
+ <img src="https://skillicons.dev/icons?i=git,docker,mongodb,linux,aws,azure,mysql,postgresql" />
 </div>
 <h2> Contato </h2>
 <div style"display: inline_block">
