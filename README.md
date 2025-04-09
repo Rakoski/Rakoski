@@ -30,7 +30,7 @@
  <strong><h3>Frameworks & Bibliotecas</h3></strong>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=graphql,react,nodejs,spring,express" />
+  <img src="https://skillicons.dev/icons?i=graphql,react,nodejs,spring,express,nextjs" />
 </div>
 
  <strong><h3>DevOps & Ferramentas</h3></strong>
