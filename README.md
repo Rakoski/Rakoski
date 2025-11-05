@@ -7,10 +7,9 @@
 ###
 
 <h3>
-Full Stack Developer, specialized in Java and Javascript.
+Full Stack Developer, specialized in Java and Typescript/Javascript.
 I work professionally as a developer and study at the Federal Institute of Paraná. I am always improving and maintaining the performance and integrations of applications,
-with experience in development using Node.js with React.js and React Native, in Front-end, Back-end and Mobile and
-Java in Back-end and mobile applications.
+with experience in fullstack development using Node.js with React.js, as well as Java/Spring-boot in Back-end applications.
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Rakoski&theme=vue-dark" alt="Rakoski's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css,cmake,dart")
