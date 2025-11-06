@@ -29,7 +29,7 @@ with experience in fullstack development using Node.js with React.js, as well as
  <strong><h3>Frameworks & Libraries</h3></strong>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=graphql,react,nodejs,spring,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,express,nextjs" />
 </div>
 
  <strong><h3>DevOps & Tools</h3></strong>
