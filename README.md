@@ -10,6 +10,9 @@
 Full Stack Developer. 
 </h3>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Rakoski?cardType=level&theme=vue-dark" alt="Rakoski's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakoski&langs_count=5&theme=vue-dark&hide=css,scss,html" 
+     alt="Rakoski's top used languages" 
+     width="44%" />
   
 ###
 
